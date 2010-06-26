@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Boss Debug
+## Notes: Debugging for boss unitids
+## Author: Shadowed
+## SavedVariables: BossDebugDB
+
+BossDebug.lua
